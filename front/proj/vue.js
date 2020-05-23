@@ -1,9 +1,9 @@
-module.exports = {
-  apps: [
+{
+ "apps": [
     {
-      name: "proj",
-      script: "./node_modules/@vue/cli-service/bin/vue-cli-service.js",
-      args: "serve"
+      "name": "proj",
+      "script": "npm",
+      "args": "serve"
     }
   ]
-};
+}
